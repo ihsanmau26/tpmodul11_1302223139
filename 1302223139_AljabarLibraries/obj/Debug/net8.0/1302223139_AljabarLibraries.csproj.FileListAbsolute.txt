@@ -1,0 +1,11 @@
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\bin\Debug\net8.0\1302223139_AljabarLibraries.deps.json
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\bin\Debug\net8.0\1302223139_AljabarLibraries.dll
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\bin\Debug\net8.0\1302223139_AljabarLibraries.pdb
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\1302223139_AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\1302223139_AljabarLibraries.AssemblyInfoInputs.cache
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\1302223139_AljabarLibraries.AssemblyInfo.cs
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\1302223139_AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\1302223139_AljabarLibraries.dll
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\refint\1302223139_AljabarLibraries.dll
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\1302223139_AljabarLibraries.pdb
+D:\tpmodul11_1302223139\1302223139_AljabarLibraries\obj\Debug\net8.0\ref\1302223139_AljabarLibraries.dll
